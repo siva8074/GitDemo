@@ -1,1 +1,4 @@
+ HEAD
 <message> hello this from master branch </message> >
+<message> hello this from git work branch </message> >
+GitWork
